@@ -1,0 +1,6 @@
+{
+  "name": "QuickNote - Clean & Fast Personal Notes",
+  "description": "A clean, minimal, and lightning-fast private notebook to capture your thoughts, daily plans, and checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
